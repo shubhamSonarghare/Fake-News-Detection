@@ -20,4 +20,4 @@ Following results were obtained using Word Embeddings (Word to vector):
 
 <img src="https://github.com/shubhamSonarghare/Fake-News-Detection/blob/master/sample%20output/W2V.png">
 
-For further details visit [this notebook](https://github.com/shubhamSonarghare/Fake-News-Detection/blob/master/Fake_News_detection_Final.ipynb).
+For further details and more comparison matric visit [this notebook](https://github.com/shubhamSonarghare/Fake-News-Detection/blob/master/Fake_News_detection_Final.ipynb). 
